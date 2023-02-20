@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freddykat
 - 👀 I’m interested in ... learnin more about programming
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ... how to program in XML and QSS
+- 💞️ I’m looking to collaborate on ... CDJpiNexusX, Its a hack with a 20yo CDJ1000 with a RPI4 nexus style OS
 - 📫 How to reach me ... oliveira.fredericomiguel@gmail.com
 
 <!---
